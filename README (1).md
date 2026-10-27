@@ -3,7 +3,7 @@
 A complete e-learning web application built with **HTML, CSS and JavaScript only**. No installation, no build step and no backend server are needed. Optionally, it can store data in the cloud using **Firebase Firestore**.
 
 ---
-
+  
 ## 1. Table of Contents
 1. Overview
 2. Features
